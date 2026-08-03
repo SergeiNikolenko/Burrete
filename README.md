@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository is an archived legacy compatibility bridge.** Active
+> development, releases, documentation, issues, and pull requests are maintained
+> in [SergeiNikolenko/Burette](https://github.com/SergeiNikolenko/Burette).
+
 <h1 align="center">Burette</h1>
 
 <p align="center">
